@@ -1,2 +1,4 @@
 # demo
-a simple  demo 
+上学期学java弄的一个图书管理系统
+用的还是mybatis和spring框架。
+运行应该还是比较容易，配好maven环境再下载tomcat，再把数据库的参数改成自己的就能跑起来惹捏
